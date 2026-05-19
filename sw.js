@@ -1,5 +1,5 @@
 // Bergen Cruise Tracker — service worker
-const CACHE = "bergen-cruise-v1";
+const CACHE = "bergen-cruise-v2";
 const ASSETS = [
   "./",
   "./index.html",
