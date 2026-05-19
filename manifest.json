@@ -1,0 +1,25 @@
+{
+  "name": "Bergen Cruise Crowd Tracker",
+  "short_name": "Bergen Cruise",
+  "description": "Per-day cruise passenger counts for Bergen, Norway \u2014 2026 season",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
